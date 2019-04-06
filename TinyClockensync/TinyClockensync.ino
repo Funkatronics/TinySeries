@@ -126,7 +126,6 @@ ISR (USI_OVF_vect) {
 // Sends a sync pulse
 inline void sync() {
   if(clockCount == 0) {
-    //pulseTime = millis();
     PORTB |= (1 << SYNC_OUT);
     _delay_ms(PULSE_TIME);
     PORTB &= ~(1 << SYNC_OUT);

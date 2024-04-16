@@ -9,7 +9,9 @@ Here is a schemtic of the device using an ATtiny45. An ATtiny25 or 85 can also b
 ![Schematic](TinyClockensync%20Schematic.png)
 
 # Purchase
-Assembled cables are available for purchase on Gumroad [here](https://gum.co/TinyClockensync).
+~~Assembled cables are available for purchase on Gumroad [here](https://gum.co/TinyClockensync).~~
+
+Purchases are discontinued. 
 
 # Credits
 Designed and built in Denver, CO by Funkatronics
